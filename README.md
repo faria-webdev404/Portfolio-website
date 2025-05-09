@@ -43,9 +43,9 @@ You can check out my portfolio live at:
 
 ## Contact
 
-Feel free to reach out to me for any inquiries or collaboration opportunities.
+Feel free to reach out to me .
 
-- **Email:** your.email@example.com
+- **Email:**  (fariaabid473@gmail.com.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/faria-abid)
 - **GitHub:** [GitHub Profile](https://github.com/faria-webdev404)
 
