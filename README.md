@@ -9,7 +9,7 @@ Hi, I’m Faria Abid, a passionate web developer with a keen interest in creatin
 ## Live Demo 🌍
 
 You can check out my portfolio live at:  
-[**Live Demo**](https://your-live-demo-link.com)
+[**Live Demo**](https://portfolio-beige-mu-47.vercel.app/)
 
 ## Features 🌟
 
